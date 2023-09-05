@@ -12,12 +12,19 @@ header {
     color: #ffffff;
 }
 
+.seo {
+    color: #d9dcd6;
+}
+
 /* CSS for all h1 headers */
 header h1 {
     display: inline-block;
     font-size: 48px;
+}
+.seo {
     color: #d9dcd6;
 }
+
 
 nav {
     padding-top: 15px;
