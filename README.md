@@ -29,13 +29,15 @@ THEN I find a concise, descriptive title
 
 When refactoring this code, I aimed to simplify by removing duplicate classes and specifying semantic tags for the various areas of the page. 
 
-I used: Header for the top area and title
-nav for the Navigation links in the upper right.
-body for the general content and article links
-article for each individual section in the body that is linked to the nav
-aside for the side bar with additional information
-section for each area within the side bar
-footer for the bottom text. 
+I used: 
+
+* Header for the top area and title
+* nav for the Navigation links in the upper right.
+* body for the general content and article links
+* article for each individual section in the body that is linked to the nav
+* aside for the side bar with additional information
+* section for each area within the side bar
+* footer for the bottom text. 
 
 I removed many duplicate classes, while retaining the IDs for linking purposes. 
 
