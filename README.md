@@ -42,3 +42,5 @@ I removed many duplicate classes, while retaining the IDs for linking purposes.
 I noted that the link for the Search Engine Optimization was not working, so I added this ID to the appropriate article element. 
 
 I also updated the title of the page and the alt text for all images. As I was not able to add alt text for the hero image, I followed the best practice per this article: http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html and changed the hero to a span with the role="img" and aria-label attributes. 
+
+Completed file can be found at https://shagomir.github.io/challenge_week_01/
